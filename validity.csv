@@ -1,0 +1,6 @@
+model,valid_syntax
+codet5-small,94.9
+codet5-small+retry,98.2
+codet5-base,97.8
+codet5-base+retry,99.4
+plbart-base,98.1
